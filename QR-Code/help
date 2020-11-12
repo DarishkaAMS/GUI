@@ -1,0 +1,6 @@
+
+
+>pip install pyqrcode
+>pip install pypng
+>pip install pyzbar
+>pip install pillow
